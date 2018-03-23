@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Part2.xsl"?>
+<endangered_species>
+<animal>
+	<name language="English">Tiger</name>
+	<name language="Latin">panthera tigris</name>
+	<threats><threat>poachers</threat>
+		<threat>habitat destruction</threat>
+		<threat>trade in tiger bones for traditional Chinese medicine (TCM)</threat>
+	</threats>
+	<weight units="pounds">500</weight>
+	<length>3 yards from nose to tail</length>
+	<source sectionid="120" newspaperid="21"></source>
+	<picture filename="tiger.jpg" x="200" y="197"/>
+		
+	<subspecies>
+		<name language="English">Amur or Siberian</name>
+		<name language="Latin">P.t. altaica</name>
+		<region>Far East Russia</region>
+		<population year="1999">445</population>
+		</subspecies>
+	
+	<subspecies>
+		<name language="English">Balian</name>
+		<name language="Latin">P.t. balica</name>
+		<region>Bali</region>
+		<population year="1937">0</population>
+	</subspecies>
+	
+	<subspecies>
+		<name language="English">Javan</name>
+		<name language="Latin">P.t. sondaica</name>
+		<region>Java</region>
+		<population year="1972">0</population>
+	</subspecies>
+
+	<subspecies>
+		<name language="English">Caspian</name>
+		<name language="Latin">P.t. virgata</name>
+		<region>Caspian Sea</region>
+		<population year="1950">0</population>
+	</subspecies>
+	<subspecies>
+		<name language="English">Bengal</name>
+		<name language="Latin">P.t. tigris</name>
+		<region>India</region>
+		<population year="1999">3159</population>
+		</subspecies>
+
+	<subspecies>
+		<name language="English">Sumatran</name>
+		<name language="Latin">P.t. sumatrae</name>
+		<region>India, Bangladesh</region>
+		<population year="1999">400</population>
+		</subspecies>
+
+	<subspecies>
+		<name language="English">Amoy</name>
+		<name language="Latin">P.t. amoyensis</name>
+		<region>South China</region>
+		<population year="1999">20</population>
+	</subspecies>
+	<subspecies>
+		<name language="English">Indo-chinese</name>
+		<name language="Latin">P.t. corbetti</name>
+		<region>Indo-China</region>
+		<population year="1998">1227</population>
+	</subspecies>
+</animal>
+<animal>
+	<name language="English">Black Rhino</name>
+	<name language="Latin">diceros bicornis</name>
+	<threats><threat>poaching to satisfy demand for rhino horn in traditional 
+		Asian medicines and as decorative dagger handles in Middle East</threat>
+		<threat>habitat destruction</threat>
+	</threats>	
+	<picture filename="rhino.jpg" x="200" y="158"/>
+	<source sectionid="101" newspaperid="21"></source>
+	<subspecies>
+		<name language="English">Southern Black Rhino</name>
+		<name language="Latin">D.b. minor</name>
+		<region>Zimbabwe and South Africa</region>
+		<population year="1999">1365</population>
+		</subspecies>
+	<subspecies>
+		<name language="English">Southwestern Black Rhino</name>
+		<name language="Latin">D.b. bicornis</name>
+		<region>Namibia</region>
+		<population year="1999">740</population>
+		</subspecies>
+	<subspecies>
+		<name language="English">Eastern Black Rhino</name>
+		<name language="Latin">D.b. michaeli</name>
+		<region>Kenya (Ethiopia and Rwanda)</region>
+		<population year="1999">485</population>
+		</subspecies>
+	<subspecies>
+		<name language="English">Northwestern Black Rhino</name>
+		<name language="Latin">D.b. longipes</name>
+		<region>Cameroon</region>
+		<population year="1999">10</population>
+	</subspecies>
+</animal>	 		
+</endangered_species>
